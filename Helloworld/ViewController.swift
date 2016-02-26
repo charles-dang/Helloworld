@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var DisplayLabel: UILabel!
     @IBAction func button_click(sender: UIButton) {
-        DisplayLabel.text = "Hello World"
+        DisplayLabel.text = "Hello World - Local 2"
     }
     override func viewDidLoad() {
         super.viewDidLoad()
