@@ -24,8 +24,8 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="s04-le-MSq">
-                                <rect key="frame" x="20" y="65" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="15" y="65" width="57" height="30"/>
+                                <state key="normal" title="click me"/>
                                 <connections>
                                     <action selector="button_click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DBR-Xx-NaL"/>
                                 </connections>
